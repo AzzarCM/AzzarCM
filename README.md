@@ -31,3 +31,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzarCM&theme=dracula&layout=compact%22%20alt=%22Top%20langs"/>
 <img src="https://github-readme-stats.vercel.app/api?username=AzzarCM&show_icons=true&theme=dracula&hide_title=true&count_private=true" alt="Alan's stats"/>
+
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
