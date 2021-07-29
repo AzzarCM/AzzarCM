@@ -7,7 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: **cris.mundo@outlook.com**
 - ⚡ Fun fact: **I've always wanted to do some skydiving 🤣**
-- 
+
 ### Technologies I've been working with.
 <!-- Banner -->
 <p>
