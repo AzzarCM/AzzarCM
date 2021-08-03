@@ -1,4 +1,4 @@
-<h1> Hi there 👋 , I'm Cristian! </h1>
+<h1> Hi there, I'm Cristian! 👋 </h1>
 
 <h3>A frontend developer from El Salvador!</h3>
 
