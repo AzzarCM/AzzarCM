@@ -1,8 +1,8 @@
 <h1> Hi there, I'm Cristian! 👋 </h1>
 
-<h3>React developer from El Salvador!</h3>
+<h3>A developer from El Salvador!</h3>
 
-- 🌱 I’m currently learning Next.js and Angular as a framework
+- 🌱 I’m currently learning Next.js and Angular
 - 👯 I’m looking to collaborate on more repositories
 - 💬 Ask me about anything
 - 📫 How to reach me: **cris.mundo@outlook.com**
