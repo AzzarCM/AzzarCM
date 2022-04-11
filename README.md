@@ -2,7 +2,7 @@
 
 <h3>A developer from El Salvador!</h3>
 
-- 🌱 I’m currently learning Next.js and Angular
+- 🌱 I’m currently learning Nest.js and Angular
 - 👯 I’m looking to collaborate on more repositories
 - 💬 Ask me about anything
 - 📫 How to reach me: **cris.mundo@outlook.com**
