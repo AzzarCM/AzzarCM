@@ -1,12 +1,13 @@
-<h1> Hi there, I'm Cristian! 👋 </h1>
+<h1> Hi, I'm Mundo! 👋 </h1>
 
-<h3>A developer from El Salvador!</h3>
+<h3>Chill dev</h3>
 
 - 🌱 I’m currently learning Nest.js and Angular
 - 👯 I’m looking to collaborate on more repositories
 - 💬 Ask me about anything
 - 📫 How to reach me: **cris.mundo@outlook.com**
-- ⚡ Fun fact: **I've always wanted to do some skydiving 🤣**
+- 💻 Portfolio: [Click here to see it!](https://www.crismundo.com)
+- ⚡ Fun fact: **I've always wanted to do some skydiving**
 
 ### Connect with me:
 
