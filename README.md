@@ -2,7 +2,7 @@
 
 <h3>Chill dev</h3>
 
-- 🌱 I’m currently learning Nest.js and Angular
+- 🌱 I’m currently learning cloud services.
 - 👯 I’m looking to collaborate on more repositories
 - 💬 Ask me about anything
 - 📫 How to reach me: **cris.mundo@outlook.com**
@@ -20,12 +20,15 @@
 ### Technologies I've been working with.
 <!-- Banner -->
 <p>
-   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100px" height="100px" alt="react" />
-   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100px" height="100px" alt="visual" />
-   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="100px" height="100px" alt="javascript" />
-   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px" height="100px" alt="node" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="100px" height="100px" alt="html" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="100px" height="100px" alt="html"/>
+   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75px" height="75px" alt="react" />
+   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="75px" height="75px" alt="visual" />
+   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="75px" height="75px" alt="javascript" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="75px" height="75px" alt="typescript" />
+   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="75px" height="75px" alt="typescript" />
+   
+   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="75px" height="75px" alt="node" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="75px" height="75px" alt="html" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="75px" height="75px" alt="html"/>
 </p>
 
 ### Stats
